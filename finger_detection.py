@@ -1,6 +1,6 @@
 from collections import defaultdict
 import numpy as np
-from rotate_crop.py import *
+from rotate_crop import *
 import cv2
 from image import Image
 import time

@@ -1,8 +1,8 @@
 import numpy as np
 from matplotlib import pyplot as plt
 import cv2
-from skimage import io
-from skimage import color
+#from skimage import io
+#from skimage import color
 import matplotlib.pyplot as plt
 
 

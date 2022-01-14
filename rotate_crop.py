@@ -27,7 +27,7 @@ def rotate_neck_picture(image):
 
     median_slope = median(slopes)
     angle = median_slope * 45
-
+    rotate
     return Image(img=rotate(image_to_rotate, -angle))
 
 
@@ -67,7 +67,7 @@ def crop_neck_picture(image):
             if i > 3 and first_y == 0:
                 first_y = y_sort[i]
 
-    return Image(img=image_to_crop[first_y - 10:last_y + 10])
+    return Image(img=image_to_crop[first_y -50:last_y +50])
 
 
 def resize_image(img):

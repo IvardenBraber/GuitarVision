@@ -14,6 +14,7 @@ for filename in os.listdir("./pictures/"):
     chord_image = Image(path=path)
     resized = resize_image(chord_image.image)
     new = Image(img=resized)
+    new = Image(path=path)
     rotated_image = rotate_neck_picture(new)
     cropped_image = crop_neck_picture(rotated_image)
     plt.subplot(int("42" + str(i)))

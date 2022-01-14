@@ -2,15 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c550634e-207e-4ad2-a7c1-c7dc676be601" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finger_detection_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid_detection_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/Baseline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/ChordA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/ChordA2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordD2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/gitaar6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picturesbackup/gitaar7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finger_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/finger_detection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/gitaar1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/gitaar2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/gitaar3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/gitaar4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/gitaar5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/59-596811_playing-guitar-png-composer-clipart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/picturesbackup/chordAm.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/chordAm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rotate_crop.py" beforeDir="false" afterPath="$PROJECT_DIR$/rotate_crop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotate_crop_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/rotate_crop_tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,9 +48,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="23dxBPEBcE26NBJdU4iDycnd0xM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Hogeschool\Jaar 5\ikCoVi\GuitarVision\GuitarVision\picturesbackup" />
+      <recent name="D:\Hogeschool\Jaar 5\ikCoVi\GuitarVision\GuitarVision\pictures" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,8 +74,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rotate_crop_tests">
-    <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.grid_detection_tests">
+    <configuration name="finger_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GuitarVision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finger_detection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="printtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="finger_detection_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GuitarVision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/printtest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finger_detection_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rotate_crop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="grid_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GuitarVision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rotate_crop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grid_detection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rotate_crop_tests (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="grid_detection_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GuitarVision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pictures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pictures/rotate_crop_tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grid_detection_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.grid_detection_tests" />
+        <item itemvalue="Python.finger_detection_tests" />
+        <item itemvalue="Python.finger_detection" />
         <item itemvalue="Python.rotate_crop_tests" />
-        <item itemvalue="Python.image" />
-        <item itemvalue="Python.rotate_crop_tests (1)" />
-        <item itemvalue="Python.rotate_crop" />
-        <item itemvalue="Python.printtest" />
+        <item itemvalue="Python.grid_detection" />
       </list>
     </recent_temporary>
   </component>
@@ -186,5 +215,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
