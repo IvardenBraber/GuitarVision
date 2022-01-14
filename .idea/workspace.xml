@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c550634e-207e-4ad2-a7c1-c7dc676be601" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/gitaar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/gitaar2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/gitaar3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/gitaar4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/gitaar5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotate_crop.py" beforeDir="false" afterPath="$PROJECT_DIR$/rotate_crop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +25,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="23dxBPEBcE26NBJdU4iDycnd0xM" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -167,7 +179,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

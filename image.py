@@ -19,10 +19,7 @@ class Image:
             self.image = img
         else:
             print("")
-
-        image_1 = self.image
-        image_1 = color.rgb2gray(image_1)
-        self.gray = image_1
+        self.gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)
 
     def __str__(self):
         return self.image
