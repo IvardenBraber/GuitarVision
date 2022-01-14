@@ -16,7 +16,7 @@ def rotate_neck_picture(image):
     image_to_rotate = image.image
 
     edges = image.edges_sobely()
-    edges = threshold(edges, 127)
+    #edges = threshold(edges, 127)
 
     lines = image.lines_hough_transform(edges, 50, 50)  # TODO: Calibrate params automatically
     slopes = []
@@ -43,6 +43,7 @@ def crop_neck_picture(image):
 
     edges = image.edges_sobely()
     edges = threshold(edges, 127)
+
 
     lines = image.lines_hough_transform(edges, 50, 50)  # TODO: Calibrate params automatically
     y = []

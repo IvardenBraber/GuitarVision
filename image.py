@@ -1,9 +1,13 @@
 import numpy as np
 from matplotlib import pyplot as plt
 import cv2
+from skimage import io
+from skimage import color
+import matplotlib.pyplot as plt
 
 
 class Image:
+
     """
     This Image object was made at the beginning to simplify the code by packaging every common
     image processing treatment in a single object
@@ -14,8 +18,11 @@ class Image:
         elif path is None:
             self.image = img
         else:
-            print("Incorrect image parameter")
-        self.gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)
+            print("")
+
+        image_1 = self.image
+        image_1 = color.rgb2gray(image_1)
+        self.gray = image_1
 
     def __str__(self):
         return self.image
