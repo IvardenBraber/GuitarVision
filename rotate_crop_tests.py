@@ -33,15 +33,16 @@ for filename in os.listdir("./pictures/"):
     rotated_image = rotate_neck_picture(new)
     cropped_image = crop_neck_picture(rotated_image)
 
-    plt.subplot(int("42" + str(i)))
-    i += 1
-    plt.imshow(cv2.cvtColor(chord_image.image, cv2.COLOR_BGR2RGB))
+    #plt.subplot(int("42" + str(i)))
+    #i += 1
+    #plt.imshow(cv2.cvtColor(chord_image.image, cv2.COLOR_BGR2RGB))
     #cv2.imwrite(output_directory + 'chord_image' + filename, chord_image.image)
-    plt.subplot(int("42" + str(i)))
-    i += 1
-    plt.imshow(cv2.cvtColor(cropped_image.image, cv2.COLOR_BGR2RGB))
+    #plt.subplot(int("42" + str(i)))
+    #i += 1
+    #plt.imshow(cv2.cvtColor(cropped_image.image, cv2.COLOR_BGR2RGB))
+
     cv2.imwrite('output_chords/'+'cropped_image_' + filename, cropped_image.image)
     print("Done - Time elapsed: %s seconds" % round(time.time() - start_time, 2))
 
-plt.show()
+#plt.show()
 
