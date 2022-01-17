@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alles</folder>
+	<filename>D.474b378f-770e-11ec-a65f-f82819e8ecfa.jpg</filename>
+	<path>C:\Users\calvi\PycharmProjects\IKCOVI\collected_images\alles\D.474b378f-770e-11ec-a65f-f82819e8ecfa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>442</xmin>
+			<ymin>292</ymin>
+			<xmax>614</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

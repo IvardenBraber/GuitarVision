@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alles</folder>
+	<filename>E.5bd8671d-770e-11ec-a0a6-f82819e8ecfa.jpg</filename>
+	<path>C:\Users\calvi\PycharmProjects\IKCOVI\collected_images\alles\E.5bd8671d-770e-11ec-a0a6-f82819e8ecfa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>268</ymin>
+			<xmax>580</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

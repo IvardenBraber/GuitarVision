@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alles</folder>
+	<filename>C.33f32978-770e-11ec-a3c8-f82819e8ecfa.jpg</filename>
+	<path>C:\Users\calvi\PycharmProjects\IKCOVI\collected_images\alles\C.33f32978-770e-11ec-a3c8-f82819e8ecfa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>289</ymin>
+			<xmax>543</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

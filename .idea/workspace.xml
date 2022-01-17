@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c550634e-207e-4ad2-a7c1-c7dc676be601" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/finger_detection_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid_detection_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/Baseline.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/ChordA.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/ChordA2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordC.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordD2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordE.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordF.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/ChordG2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/gitaar6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picturesbackup/gitaar7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GuitarVision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GuitarVision.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finger_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/finger_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/59-596811_playing-guitar-png-composer-clipart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picturesbackup/chordAm.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/chordAm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picturesbackup/gitaar5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotate_crop.py" beforeDir="false" afterPath="$PROJECT_DIR$/rotate_crop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotate_crop_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/rotate_crop_tests.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,13 +21,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="oaq5glwk" />
+  </component>
   <component name="ProjectId" id="23dxBPEBcE26NBJdU4iDycnd0xM" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/pythonProject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -61,18 +43,6 @@
       <recent name="D:\Hogeschool\Jaar 5\ikCoVi\GuitarVision\GuitarVision\picturesbackup" />
       <recent name="D:\Hogeschool\Jaar 5\ikCoVi\GuitarVision\GuitarVision\pictures" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.grid_detection_tests">
     <configuration name="finger_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -190,6 +160,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -208,13 +179,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
